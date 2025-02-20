@@ -18,4 +18,5 @@ The **Pothole Image Segmentation** project aims to develop a robust model for de
 
 ### Installation
 To set up the project, clone the repository and install the necessary dependencies. Ensure you have the required libraries and frameworks installed, such as TensorFlow, PyTorch, and OpenCV.
-
+### Refer this link
+https://www.kaggle.com/code/ameymedewar/pothole-image-segmentation
